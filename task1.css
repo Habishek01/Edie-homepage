@@ -1,0 +1,289 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 42px 52px 0;
+}
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 104px;
+}
+
+.top-bar2 span {
+  margin: 0 20px;
+  font-size: 24px;
+}
+
+.pl-277 {
+  padding-left: 277px;
+}
+
+.unhappy {
+  margin-bottom: 16px;
+  color: #2d9cdb;
+  font-size: 18px;
+}
+
+.wecreate {
+  margin-bottom: 42px;
+  font-size: 48px;
+}
+
+.heroimage {
+  width: 100%;
+  border-radius: 18px;
+}
+
+.description-1-heading {
+  margin: 42px 0;
+  font-size: 48px;
+}
+
+.description-1-content {
+  width: 366px;
+  margin-bottom: 42px;
+  font-size: 18px;
+}
+
+.decription-2 {
+  margin-top: 200px;
+}
+
+.pl-110 {
+  padding-left: 110px;
+}
+
+.weoffer {
+  margin-bottom: 42px;
+}
+
+.description-2-c {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 194px;
+}
+
+.description-2-content {
+  padding: 46px 34px;
+  width: 31%;
+  border-radius: 24px;
+}
+
+.description-2-content:hover {
+  box-shadow: 0px 10px 30px rgba(51, 51, 51, 0.1);
+  cursor: pointer;
+}
+
+.description-2-content:hover .get-started {
+  background-color: #2d9cdb;
+  color: white;
+}
+
+.icon {
+  width: 67px;
+  height: 67px;
+  border-radius: 16px;
+  margin-bottom: 35px;
+}
+
+.icon.blue {
+  background-color: blue;
+}
+
+.icon.green {
+  background-color: green;
+}
+
+.icon.red {
+  background-color: red;
+}
+
+.card-title {
+  margin-bottom: 24px;
+}
+
+.get-started {
+  margin-top: 30px;
+  border-radius: 12px;
+  border: none;
+  padding: 9px 13px;
+}
+.decription-3 {
+  font-size: 36px;
+}
+
+.description-3-images {
+  margin-right: 110px;
+}
+
+.show-item {
+  display: inline-block;
+  width: calc(100% - 50% - 20px);
+}
+
+.show-item.item1 {
+  margin-top: 188px;
+}
+.show-item.item2 {
+  margin-left: 20px;
+  vertical-align: top;
+}
+.show-item.item3 {
+  margin-top: 105px;
+}
+.show-item.item4 {
+  margin-left: 20px;
+  vertical-align: top;
+}
+
+.show-item img {
+  border-radius: 12px;
+  height: 545px;
+  max-width: 100%;
+}
+.image-content {
+  font-size: 14px;
+  color: gray;
+  padding-bottom: 5px;
+  padding-top: 10px;
+}
+.image-description {
+  font-size: 24px;
+}
+
+.see-more {
+  color: #2d9cdb;
+  margin-top: 67px;
+  float: right;
+}
+
+.decription-4 {
+  padding-right: 110px;
+  margin-top: 241px;
+  margin-bottom: 196px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.description-4-content-1 {
+  font-size: 18px;
+  color: red;
+}
+.description-4-content-2 {
+  font-size: 36px;
+}
+.description-4-content-3 {
+  font-size: 16px;
+}
+
+.layout {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.decription-4 img {
+  border-radius: 24px;
+  width: 260px;
+  height: 260px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.description-5-content-1 {
+  font-size: 36px;
+}
+
+.author {
+  margin-top: 75px;
+}
+
+.author img {
+  border-radius: 12px;
+  height: 82px;
+  width: 82px;
+  margin-right: 30px;
+  vertical-align: middle;
+}
+
+.author-info {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+.mb-20 {
+  font-size: 18px;
+  color: grey;
+}
+
+.footer {
+  color: white;
+  background-color: #100e1d;
+  padding: 46px 168px 118px;
+  display: flex;
+  justify-content: space-between;
+  margin: 200px -52px 0;
+}
+
+.footer-1,
+.footer-2 {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.footer-1 div {
+  margin-bottom: 10px;
+}
+
+.footer-2 {
+  margin-left: 245px;
+}
+.material-symbols-outlined {
+  margin-top: 15px;
+  color: white;
+  font-size: 33px;
+  margin-left: 18px;
+}
+
+.join {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+.join input,
+.join button {
+  border: none;
+}
+
+.join button {
+  background-color: #2d9cdb;
+  padding: 8px 15px;
+  border-radius: 12px;
+}
+.description-1-input > input {
+  padding: 10px;
+  border-radius: 10px;
+  width: 350px;
+  background-color: #f2f2f2;
+  border: none;
+}
+.description-1-input > button {
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: -54px;
+  background-color: cornflowerblue;
+  border: none;
+  color: white;
+}
+
+.createdby {
+  color: white;
+  text-align: center;
+  background-color: #100e1d;
+  padding-bottom: 10px;
+  margin: 0 -52px 0;
+}
